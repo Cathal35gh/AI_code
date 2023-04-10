@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Minecraft Website</title>
+	<style>
+		/* CSS styles for the page */
+		body {
+			font-family: Arial, sans-serif;
+			background-color: #1C1C1C;
+			color: #FFFFFF;
+			padding: 20px;
+		}
+		h1 {
+			font-size: 36px;
+			margin-bottom: 20px;
+		}
+		p {
+			font-size: 18px;
+			line-height: 1.5;
+			margin-bottom: 10px;
+		}
+		a {
+			color: #6C9EE5;
+			text-decoration: none;
+		}
+		a:hover {
+			text-decoration: underline;
+		}
+	</style>
+</head>
+<body>
+	<header>
+		<h1>Minecraft Website</h1>
+		<nav>
+			<ul>
+				<li><a href="#">Home</a></li>
+				<li><a href="#">About</a></li>
+				<li><a href="#">Mods</a></li>
+				<li><a href="#">Servers</a></li>
+				<li><a href="#">Community</a></li>
+			</ul>
+		</nav>
+	</header>
+	
+	<main>
+		<section>
+			<h2>Welcome to Minecraft!</h2>
+			<p>Minecraft is a game about placing blocks and going on adventures. Explore randomly generated worlds and build amazing things from the simplest of homes to the grandest of castles.</p>
+			<p>Learn more about Minecraft on the official website: <a href="https://www.minecraft.net/">www.minecraft.net</a></p>
+		</section>
+		
+		<section>
+			<h2>About Minecraft</h2>
+			<p>Minecraft was created by Markus "Notch" Persson and released by Mojang Studios in 2011. It has since become one of the most popular video games of all time, with millions of players around the world.</p>
+			<p>The game is available on multiple platforms, including PC, Xbox, PlayStation, and mobile devices. It has inspired countless mods and fan-made creations, and has even been used as an educational tool.</p>
+		</section>
+		
+		<section>
+			<h2>Minecraft Mods</h2>
+			<p>Mods are modifications to the game that can add new features, change the gameplay, or even create entirely new game modes. There are thousands of Minecraft mods available, ranging from small tweaks to massive overhauls.</p>
+			<p>Visit <a href="https://www.curseforge.com/minecraft/mc-mods">CurseForge</a> or <a href="https://www.minecraftmods.com/">MinecraftMods.com</a> to browse and download mods.</p>
+		</section>
+		
+		<section>
+			<h2>Minecraft Servers</h2>
+			<p>Joining a Minecraft server allows you to play with other players from around the world. There are many different types of servers, including survival, creative, and minigames.</p>
+			<p>Visit <a href="https://www.minecraft-server-list.com/">Minecraft Server List</a> or <a href="https://www.planetminecraft.com/servers/">Planet Minecraft</a> to find servers to join.</p>
+		</section>
+		
+		<section>
+			<h2>Minecraft Community</h2>
+			<p>The Minecraft community is one of the most creative and passionate in the world. Players have
